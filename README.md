@@ -20,7 +20,7 @@ ___
 
 ## Time complexity
 
-|                 |Best  Case  |Worst   |Avg     |Space |Stable |
+|                 |"Best  Case"  |Worst   |Avg     |Space |Stable |
 |-                |-       |-       |-       |-     |-      |
 |Bubble Sort      |n       |$n^2$   |$n^2$   |1     |Yes    |
 |Selection Sort   |$n^2$   |$n^2$   |$n^2$   |1     |No     |
