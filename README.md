@@ -16,5 +16,6 @@
 - Prims 
 - Quick Sort
 
+___
 
 ## Time complexity
