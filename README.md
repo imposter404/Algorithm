@@ -1,6 +1,7 @@
 # Algorithm
 
-### implimenting famous algorithms using 
+implimenting famous algorithms using 
+
 # C++
 
 > #include<iostream.h>
