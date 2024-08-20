@@ -4,6 +4,13 @@ implimenting famous algorithms using
 
 # C++
 
+<div >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+          
+</div>
+
+
+
 > ``` c++
 > #include<iostream.h>
 > ```
