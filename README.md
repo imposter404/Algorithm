@@ -21,8 +21,7 @@ implimenting famous algorithms using
 - Insert / Delete in Binary Search Tree
 - Duplicate Data Removal 
 - Kruskal 
-- Prims 
-- Quick Sort
+- Prims 
 
 ___
 
