@@ -20,8 +20,7 @@ implimenting famous algorithms using
 - Expression Tree
 - Insert / Delete in Binary Search Tree
 - Duplicate Data Removal 
-- Kruskal 
-- Merge Sort
+- Kruskal 
 - Prims 
 - Quick Sort
 
