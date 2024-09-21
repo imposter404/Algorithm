@@ -19,8 +19,7 @@ implimenting famous algorithms using
 - Tree Travarsal
 - Expression Tree
 - Insert / Delete in Binary Search Tree
-- Duplicate Data Removal 
-- [ ] Heap Sort
+- Duplicate Data Removal 
 - Kruskal 
 - Merge Sort
 - Prims 
