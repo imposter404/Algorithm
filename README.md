@@ -22,6 +22,6 @@ implimenting famous algorithms using
 - Duplicate Data Removal 
 - Kruskal 
 - Prims 
-
+- Dijkstra
 ___
 
