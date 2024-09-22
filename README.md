@@ -17,7 +17,7 @@ implimenting famous algorithms using
 
 
 - Shortest Path
-    - Dijkstra
+  - Dijkstra
   - Bellman-Ford
 
 - Minimum Spanning Tree
