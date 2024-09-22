@@ -16,6 +16,16 @@ implimenting famous algorithms using
 > ```
 
 
+- Shortest Path
+  - Dijkstra
+  - Bellman-Ford
+
+- Minimum Spanning Tree
+  - Kruskal
+  - Prims
+
+
+
 
 
 
