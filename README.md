@@ -17,7 +17,6 @@ implimenting famous algorithms using
 
 
 - Shortest Path
-  - Greedy
     - Dijkstra
   - Bellman-Ford
 
