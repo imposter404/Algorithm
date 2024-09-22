@@ -24,6 +24,10 @@ implimenting famous algorithms using
   - [x] Kruskal
   - [x] Prims
 
+- Knapsack
+  - 0/1 Knapsack
+  - Fractional Knapsack
+
 - Tree
   - Binary Search Tree
 
