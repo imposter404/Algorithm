@@ -21,8 +21,8 @@ implimenting famous algorithms using
   - Bellman-Ford
 
 - Minimum Spanning Tree
-  - Kruskal
-  - Prims
+  - [x] Kruskal
+  - [x] Prims
 
 - Tree
   - Binary Search Tree
