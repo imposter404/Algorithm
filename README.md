@@ -29,6 +29,10 @@ implimenting famous algorithms using
   - 0/1 Knapsack
   - Fractional Knapsack
 
+- Encoding 
+  - Huffman Coding
+  - LZ compression 
+
 - Tree
   - Binary Search Tree
 
