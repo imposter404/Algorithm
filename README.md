@@ -19,6 +19,7 @@ implimenting famous algorithms using
 - Shortest Path
   - Dijkstra
   - Bellman-Ford
+  - Traveling Salesman
 
 - Minimum Spanning Tree
   - [x] Kruskal
