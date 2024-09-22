@@ -33,6 +33,11 @@ implimenting famous algorithms using
   - Huffman Coding
   - LZ compression 
 
+- Dynamic Programming
+  - Longest Common Subsequence
+
+
+
 - Tree
   - Binary Search Tree
 
