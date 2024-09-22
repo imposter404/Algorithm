@@ -24,6 +24,8 @@ implimenting famous algorithms using
   - Kruskal
   - Prims
 
+- Tree
+  - Binary Search Tree
 
 
 
