@@ -30,3 +30,27 @@ void Matrix::Values(int values[6][6]){
 		}
 	}
 }
+
+void Matrix::Dijkstra(){
+	weight[start][0]=0;
+	weight[start][1]=start;
+	for(int i=start;i<size;i++)
+	{
+		for(int j=0;j<size;j++)
+		{
+			if((weight[j][0]>(arr[i][j]+weight[i][0])) && arr[i][j]!=0)
+			{
+				weight[j][0]=arr[i][j]+weight[i][0];
+				weight[j][1]=i;
+			}
+		}
+	}
+
+	int min=0;
+	for(int i=0;i<size;i++)
+	{
+		cout<<"weight "<<weight[i][0]<<" "<<letter[weight[i][1]]<<"->"<<letter[i]<<"\n";
+		min+=weight[i][0];
+	}
+	cout<<"Min "<<min;
+}
