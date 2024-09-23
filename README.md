@@ -17,7 +17,7 @@ implimenting famous algorithms using
 
 
 - Shortest Path
-  - Dijkstra :x:
+  - Dijkstra :warning:
   - Bellman-Ford
   - Traveling Salesman
 
