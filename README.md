@@ -34,7 +34,7 @@ implimenting famous algorithms using
   - LZ compression 
 
 - Dynamic Programming
-  - Longest Common Subsequence
+  - Longest Common Subsequence :construction:
 
 
 
