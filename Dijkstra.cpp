@@ -54,3 +54,21 @@ void Matrix::Dijkstra(){
 	}
 	cout<<"Min "<<min;
 }
+
+int main(){
+	Matrix M;
+	M.size=6;
+	cout<<"Start ";
+	cin>>M.start;
+	int values[6][6]={
+	{0,4,4,0,0,0},
+	{4,0,2,0,0,0},
+	{4,2,0,3,6,1},
+	{0,0,3,0,2,0},
+	{0,0,6,2,0,3},
+	{0,0,1,0,3,0}
+	};
+	M.Values(values);
+	M.Dijkstra();
+	return 0;
+}
