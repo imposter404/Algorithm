@@ -22,8 +22,8 @@ implimenting famous algorithms using
   - Traveling Salesman
 
 - Minimum Spanning Tree
-  - [x] Kruskal
-  - [x] Prims
+  - Kruskal :white_check_mark:
+  - Prims   :white_check_mark:
 
 - Knapsack
   - 0/1 Knapsack
