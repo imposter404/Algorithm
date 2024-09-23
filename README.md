@@ -30,7 +30,7 @@ implimenting famous algorithms using
   - Fractional Knapsack
 
 - Encoding 
-  - [ ] Huffman Coding
+  - Huffman Coding :construction:
   - LZ compression 
 
 - Dynamic Programming
