@@ -32,7 +32,7 @@ implimenting famous algorithms using
 - Encoding 
   - [ ] Huffman Coding
   - LZ compression 
-[ ] #1
+- [ ] #1
 
 - Dynamic Programming
   - Longest Common Subsequence
