@@ -16,35 +16,35 @@ implimenting famous algorithms using
 > ```
 
 
-- Shortest Path
+### Shortest Path
   - Dijkstra :warning:
   - > [! WARNING] 
     > wrong approach 
   - Bellman-Ford
   - Traveling Salesman
 
-- Minimum Spanning Tree
+### Minimum Spanning Tree
   - Kruskal :white_check_mark:
   - Prims   :white_check_mark:
 
-- Knapsack
+### Knapsack
   - 0/1 Knapsack
   - Fractional Knapsack  :construction:
 
-- Encoding 
+### Encoding 
   - Huffman Coding :construction:
   - LZ compression 
 
-- Dynamic Programming
+### Dynamic Programming
   - Longest Common Subsequence :construction:
 
 
 
-- Tree
+### Tree
   - Binary Search Tree
 
 
-### - Cryptography 
+### Cryptography 
   - Shift Cipher
 
 
