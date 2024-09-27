@@ -45,7 +45,7 @@ implimenting famous algorithms using
 
 
 - Cryptography 
-  - Shift Cypher
+  - Shift Cipher
 
 
 
