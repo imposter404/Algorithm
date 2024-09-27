@@ -22,27 +22,33 @@ implimenting famous algorithms using
     > wrong approach 
   - Bellman-Ford
   - Traveling Salesman
+---
 
 ### Minimum Spanning Tree
   - Kruskal :white_check_mark:
   - Prims   :white_check_mark:
+---
 
 ### Knapsack
   - 0/1 Knapsack
   - Fractional Knapsack  :construction:
 ---
+
 ### Encoding 
   - Huffman Coding :construction:
   - LZ compression 
+---
 
 ### Dynamic Programming
   - Longest Common Subsequence :construction:
 
 
+---
 
 ### Tree
   - Binary Search Tree
 
+---
 
 ### Cryptography 
   - Shift Cipher
