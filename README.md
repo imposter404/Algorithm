@@ -30,7 +30,7 @@ implimenting famous algorithms using
 ### Knapsack
   - 0/1 Knapsack
   - Fractional Knapsack  :construction:
-
+---
 ### Encoding 
   - Huffman Coding :construction:
   - LZ compression 
