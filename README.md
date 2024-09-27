@@ -54,6 +54,7 @@ implimenting famous algorithms using
 
 ### Cryptography 
   - Shift Cipher
+  - Affine Cipher 
 
 
 
