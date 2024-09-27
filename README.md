@@ -44,7 +44,7 @@ implimenting famous algorithms using
   - Binary Search Tree
 
 
-- # Cryptography 
+- ### Cryptography 
   - Shift Cipher
 
 
