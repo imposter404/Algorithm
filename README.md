@@ -55,8 +55,7 @@ implimenting famous algorithms using
 ### Cryptography 
   - Shift Cipher
   - Affine Cipher 
-
-[x](/prims.cpp)
+  - [Prims](/Prims.cpp)
 
 
 
