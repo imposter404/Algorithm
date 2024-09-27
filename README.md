@@ -18,8 +18,8 @@ implimenting famous algorithms using
 
 ### Shortest Path
   - Dijkstra :warning:
-    > [! WARNING] 
-    > wrong approach 
+> [! WARNING] 
+> wrong approach 
   - Bellman-Ford
   - Traveling Salesman
 ---
