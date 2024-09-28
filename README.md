@@ -58,10 +58,6 @@ implimenting famous algorithms using
 <!--  - [Prims](Prims.cpp). -->
 
 
-### Cryptography
----
-  - Shift Cipher    :white_check_mark:
-  - Affine Cipher   :white_check_mark:
 
 
 
