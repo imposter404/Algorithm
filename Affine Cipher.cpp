@@ -35,3 +35,31 @@ int Mod(int x,int y)
 {
     return (x % y + y) % y; 
 }
+
+
+void String::Decrypt(){
+    int a_inv;
+    for(int i=0;i<26;i++)
+    {
+        if((a*i)%26==1)
+        {
+            a_inv=i;
+            break;
+        }
+    }
+
+    for(int i=0;i<encrypt.length();i++)
+    {
+        for(int j=0;j<26;j++)
+        {
+            if(l[j]==encrypt[i])
+            {
+                // decrypt+=l[(23*(j-b))%26];    //this will not word due to compiler issue
+                // cout<<(23*(5-20))%26;        //output : -7   should be: 19   due to -ve number :(
+                // cout<<Mod(-11,5); 				// real mod operatior function :)
+                decrypt+=l[Mod((23*(j-b)),26)];
+                
+            }
+        }
+    }
+}
