@@ -29,3 +29,9 @@ void String::Encrypt(){
         }
     }
 }
+
+
+int Mod(int x,int y)
+{
+    return (x % y + y) % y; 
+}
