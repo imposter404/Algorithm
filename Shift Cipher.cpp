@@ -42,3 +42,17 @@ void String::Decrypt(){
         }
     }
 }
+
+
+int main(){
+	String S;
+    S.str="ACADY";
+    S.key=3;
+    cout<<"String : "<<S.str;
+    cout<<"\nKey : "<<S.key;
+    S.Encrypt();
+    cout<<"\nEncrypt : "<<S.encrypt;
+    S.Decrypt();
+    cout<<"\nDecrypt : "<<S.decrypt;
+	return 0;
+}
