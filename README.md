@@ -54,7 +54,7 @@ implimenting famous algorithms using
 
 ### Cryptography 
   - Shift Cipher    :white_check_mark:
-  - Affine Cipher   ✅ 
+  - Affine Cipher   :white_check_mark:
 <!--  - [Prims](Prims.cpp). -->
 
 
