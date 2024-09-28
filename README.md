@@ -53,8 +53,8 @@ implimenting famous algorithms using
 ---
 
 ### Cryptography 
-  - Shift Cipher
-  - Affine Cipher 
+  - Shift Cipher    :construction:
+  - Affine Cipher   :construction:
 <!--  - [Prims](Prims.cpp). -->
 
 
