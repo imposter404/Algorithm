@@ -63,3 +63,19 @@ void String::Decrypt(){
         }
     }
 }
+
+
+int main(){
+	String S;
+    S.str="TWENTY";
+    S.a=17;
+    S.b=20;
+    cout<<"String : "<<S.str;
+   cout<<"\nA : "<<S.a;
+   cout<<"\nB : "<<S.b;
+    S.Encrypt();
+    cout<<"\nEncrypt : "<<S.encrypt;
+    S.Decrypt();
+    cout<<"\nDecrypt : "<<S.decrypt;
+	return 0;
+}
