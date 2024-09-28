@@ -29,3 +29,16 @@ int Mod(int x,int y)
 {
     return (x % y + y) % y; 
 }
+
+void String::Decrypt(){
+    for(int i=0;i<encrypt.length();i++)
+    {
+        for(int j=0;j<26;j++)
+        {
+            if(x[j]==encrypt[i]){
+                // decrypt+=x[(j-key)%26];       // this may not work due to compiler isuse with -ve number
+                decrypt+=x[Mod((j-key),26)];    // real mod operatior function :)
+            }
+        }
+    }
+}
