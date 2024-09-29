@@ -42,7 +42,8 @@ implimenting famous algorithms using
 ---
 
 ### Dynamic Programming
-  - Longest Common Subsequence :construction:
+  - Longest Common Subsequence :white_check_mark:
+  - Longest Common Substring :construction:
 
 
 ---
