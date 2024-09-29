@@ -12,3 +12,16 @@ class Matrix{
 			void knapsack();
 			void display();
 };
+
+void Matrix::Values(int values[6][3]){
+    matrix=new float*[x_size];
+    for(int i=0;i<x_size;i++)
+	{
+		matrix[i]=new float[4]; // {item,weight,profit,pi/wi}
+        for(int j=0;j<3;j++)
+        {
+            matrix[i][j]=values[i][j];
+        }
+         matrix[i][3]=matrix[i][2]/matrix[i][1];
+	}
+}
