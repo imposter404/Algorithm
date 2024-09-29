@@ -76,7 +76,7 @@ void Matrix::display(){
 
 
 int main(){
-	Matrix M;
+	  Matrix M;
     M.x_size=5;
     M.profit=0;
     M.n=10;
