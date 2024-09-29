@@ -25,3 +25,16 @@ void Matrix::Values(int values[6][3]){
          matrix[i][3]=matrix[i][2]/matrix[i][1];
 	}
 }
+
+void Matrix::knapsack(){
+    for(int i=0;i<x_size;i++)
+    {
+        for(int j=0;j<x_size-1;j++)
+        {
+            if(matrix[j][3] < matrix[j+1][3])
+            {
+                    swap(matrix[j],matrix[j+1]);
+            }
+        }
+    }
+}
