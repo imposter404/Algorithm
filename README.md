@@ -55,7 +55,7 @@ implimenting famous algorithms using
 ### Cryptography 
   - Shift Cipher    :white_check_mark:
   - Affine Cipher   :white_check_mark:
-  - Vigenère Cipher
+  - Vigenère Cipher :construction:
 <!--  - [Prims](Prims.cpp). -->
 
 
