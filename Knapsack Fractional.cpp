@@ -38,3 +38,35 @@ void Matrix::knapsack(){
         }
     }
 }
+
+
+void Matrix::display(){
+	
+	for(int i=0;i<x_size;i++)
+    {
+        for(int j=0;j<4;j++)
+        {
+			cout<<matrix[i][j]<<" ";
+        }
+        cout<<"\n";
+    }
+	
+    
+	int i=0;
+	cout<<"\nItem : ";
+	while(n!=0)
+	{
+		if((n-matrix[i][1])>=0)
+		{
+			n-=matrix[i][1];
+			profit+=matrix[i][2];	
+		}
+		else{
+			profit+=(n/matrix[i][1])*matrix[i][2];
+			n=0;
+		}
+		cout<<matrix[i][0]<<" ";
+		i++;
+	}
+	cout<<"\nProfit : "<<profit;
+}
