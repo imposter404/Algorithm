@@ -68,3 +68,16 @@ while(i!=1)
 		sta.push(i);
 	}
 }
+
+
+void Matrix::display()
+{
+	cout<<"String  : "<<x;
+	cout<<"\nSub Str : "<<y;
+	cout<<"\n\nLCS : ";
+	while(!sta.empty())
+	{
+		cout<<x[sta.top()];
+		sta.pop();
+	}
+}
