@@ -8,11 +8,10 @@ class String{
 		string encrypt;
 		string decrypt;
 		int key;
-   string x="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        string x= "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 		void Encrypt();
 		void Decrypt();
 };
-
 void String::Encrypt(){
     for(int i=0;i<str.length();i++)
     {
