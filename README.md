@@ -43,7 +43,7 @@ implimenting famous algorithms using
 
 ### Dynamic Programming
   - Longest Common Subsequence [:white_check_mark:](Longest%20Common%20Subsequence.cpp)
-  - Longest Common Substring :construction:
+  - Longest Common Substring [:construction:](Longest%20Common%20Substring.cpp)
 
 
 ---
