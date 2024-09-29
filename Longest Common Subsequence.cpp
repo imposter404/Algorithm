@@ -50,3 +50,21 @@ for(int i=1;i<=x.length();i++)
     }
 }
 
+int i=x.length();
+int j=y.length();
+while(i!=1)
+{
+	if(matrix[i][j] == matrix[i][j-1] && matrix[i][j-1] > matrix[i-1][j] )
+	{
+		j--;
+	}
+	else if(matrix[i][j] == matrix[i-1][j] && matrix[i][j-1] <= matrix[i-1][j] )
+	{
+		i--;
+	}
+	else{
+		i--;
+		j--;
+		sta.push(i);
+	}
+}
