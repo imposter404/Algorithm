@@ -33,7 +33,7 @@ implimenting famous algorithms using
 
 ### Knapsack
   - 0/1 Knapsack
-  - Fractional Knapsack  [:white_check_mark:](Knapsack Fractional.cpp)
+  - Fractional Knapsack  [:white_check_mark:](https://github.com/imposter404/Algorithm/blob/main/Knapsack%20Fractional.cpp)
 ---
 
 ### Encoding 
