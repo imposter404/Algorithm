@@ -1,24 +1,22 @@
 #include<iostream>
 #include<string>
-#include<stack>
 using namespace std;
 
 class String{
 	public :
-			string str;
-			string encrypt;
-			string decrypt;
-			int key;
-            string x="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-			void Encrypt();
-			void Decrypt();
+		string str;
+		string encrypt;
+		string decrypt;
+		int key;
+        string x="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+		void Encrypt();
+		void Decrypt();
 };
 
 void String::Encrypt(){
     for(int i=0;i<str.length();i++)
     {
-        for(int
-		 j=0;j<26;j++)
+        for(int j=0;j<26;j++)
         {
             if(x[j]==toupper(str[i])){
                 encrypt+=x[(j+key)%26];
@@ -48,7 +46,7 @@ void String::Decrypt(){
 
 
 int main(){
-	String S;
+    String S;
     S.str="ACADY";
     S.key=3;
     cout<<"String : "<<S.str;
@@ -57,5 +55,5 @@ int main(){
     cout<<"\nEncrypt : "<<S.encrypt;
     S.Decrypt();
     cout<<"\nDecrypt : "<<S.decrypt;
-	return 0;
+    return 0;
 }
