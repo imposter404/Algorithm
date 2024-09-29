@@ -31,4 +31,22 @@ void Matrix::values(){
 	}	
 }
 
+void Matrix::LCS(){
+
+for(int i=1;i<=x.length();i++)
+{
+    for(int j=1;j<=y.length();j++)
+    {
+        if(x[i-1]==y[j-1])
+        {
+            matrix[i][j]=matrix[i-1][j-1]+1;
+        }
+        else if(matrix[i][j-1] > matrix[i-1][j]){
+            matrix[i][j]=matrix[i][j-1];
+        }
+        else{
+            matrix[i][j]=matrix[i-1][j];
+        }
+    }
+}
 
