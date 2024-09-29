@@ -15,6 +15,7 @@ class Matrix{
 			void display();
 };
 
+
 void Matrix::values(){
     matrix=new int*[x.length()+1];
     for(int i=0;i<=x.length();i++)
@@ -30,6 +31,9 @@ void Matrix::values(){
 		}
 	}	
 }
+
+
+
 
 void Matrix::LCS(){
 
@@ -50,6 +54,8 @@ for(int i=1;i<=x.length();i++)
     }
 }
 
+
+
 int i=x.length();
 int j=y.length();
 while(i!=1)
@@ -69,6 +75,7 @@ while(i!=1)
 	}
 }
 
+}
 
 void Matrix::display()
 {
@@ -81,6 +88,8 @@ void Matrix::display()
 		sta.pop();
 	}
 }
+
+
 
 
 int main(){
