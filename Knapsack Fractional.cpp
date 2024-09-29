@@ -8,7 +8,7 @@ class Matrix{
 			int x_size;
 			int n;
 			int profit;
-    void Values(int values[6][3]);
+     void Values(int values[6][3]);
 			void knapsack();
 			void display();
 };
