@@ -27,7 +27,7 @@ implimenting famous algorithms using
 ---
 
 ### Minimum Spanning Tree
-  - Kruskal :white_check_mark:
+  - Kruskal [:white_check_mark:](Kruskal.cpp)
   - Prims   :white_check_mark:
 ---
 
