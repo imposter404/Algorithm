@@ -19,6 +19,7 @@ void String::Encrypt(){
         {
             if(x[j]==toupper(str[i])){
                 encrypt+=x[(j+key)%26];
+                break;
             }
         }
     }
@@ -38,6 +39,7 @@ void String::Decrypt(){
             if(x[j]==encrypt[i]){
                 // decrypt+=x[(j-key)%26];       // this may not work due to compiler isuse with -ve number
                 decrypt+=x[Mod((j-key),26)];    // real mod operatior function :)
+                break;
             }
         }
     }
