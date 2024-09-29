@@ -70,3 +70,23 @@ void Matrix::display(){
 	}
 	cout<<"\nProfit : "<<profit;
 }
+
+
+int main(){
+	Matrix M;
+    M.x_size=5;
+    M.profit=0;
+    M.n=10;
+    int values[5][3]{
+        // {item,weight,profit},
+        {1,3,10},
+        {2,3,15},
+        {3,2,10},
+        {4,5,20},
+        {5,1,8}
+    };
+	M.Values(values);
+	M.knapsack();
+	M.display();
+	return 0;
+}
