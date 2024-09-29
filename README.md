@@ -17,7 +17,7 @@ implimenting famous algorithms using
 
 
 ### Shortest Path
-  - Dijkstra :warning:
+  - Dijkstra [:warning:](Dijkstra.cpp)
 
 > [!WARNING] 
 > wrong approach 
@@ -28,7 +28,7 @@ implimenting famous algorithms using
 
 ### Minimum Spanning Tree
   - Kruskal [:white_check_mark:](Kruskal.cpp)
-  - Prims   :white_check_mark:
+  - Prims   [:white_check_mark:](Prims.cpp)
 ---
 
 ### Knapsack
@@ -42,7 +42,7 @@ implimenting famous algorithms using
 ---
 
 ### Dynamic Programming
-  - Longest Common Subsequence :white_check_mark:
+  - Longest Common Subsequence [:white_check_mark:](Longest%20Common%20Subsequence.cpp)
   - Longest Common Substring :construction:
 
 
