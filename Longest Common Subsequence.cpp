@@ -81,3 +81,16 @@ void Matrix::display()
 		sta.pop();
 	}
 }
+
+
+int main(){
+	Matrix M;
+    string x="ACADB";
+    string y="CBDA";
+    M.x=x;
+    M.y=y;
+	M.values();
+	M.LCS();
+	M.display();
+	return 0;
+}
