@@ -18,11 +18,11 @@ class String{
 void String::Encrypt(){
     for(int i=0;i<str.length();i++)
     {
-        for(int
-		j=0;j<26;j++)
+        for(intj=0;j<26;j++)
         {
             if(l[j]==toupper(str[i])){
                 encrypt+=l[(a*j+b)%26];
+                break;
             }
         }
     }
@@ -57,6 +57,7 @@ void String::Decrypt(){
                 // cout<<(23*(5-20))%26;        //output : -7   should be: 19   due to -ve number :(
                 // cout<<Mod(-11,5); 				// real mod operatior function :)
                 decrypt+=l[Mod((23*(j-b)),26)];
+                break;
             }
         }
     }
