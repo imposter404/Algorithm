@@ -8,7 +8,7 @@ class String{
 		string encrypt;
 		string decrypt;
 		int key;
-  string x="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+string x="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 		void Encrypt();
 		void Decrypt();
 };
