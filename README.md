@@ -33,7 +33,7 @@ implimenting famous algorithms using
 
 ### Knapsack
   - 0/1 Knapsack
-  - Fractional Knapsack  :construction:
+  - Fractional Knapsack  [:white_check_mark:](Prims.cpp)
 ---
 
 ### Encoding 
