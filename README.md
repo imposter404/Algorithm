@@ -56,9 +56,9 @@ implimenting famous algorithms using
 ### Cryptography 
   - Shift Cipher    [:white_check_mark:](Shift%20Cipher.cpp)
   - Affine Cipher   [:white_check_mark:](Affine%20Cipher.cpp)
-  - Vigenère Cipher [:construction:](Vigenère%20Cipher.cpp)
+  - Vigenère Cipher [:white_check_mark:](Vigenère%20Cipher.cpp)
 - Hill Cipher [:construction:](Hill%20Cipher.cpp)
-- Vernam Cipher.cpp [:construction:](Vernam%20Cipher.cpp)
+- Vernam Cipher.cpp [:white_check_mark:](Vernam%20Cipher.cpp)
 
 
 
