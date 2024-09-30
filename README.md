@@ -58,7 +58,7 @@ implimenting famous algorithms using
   - Affine Cipher   [:white_check_mark:](Affine%20Cipher.cpp)
   - Vigenère Cipher [:white_check_mark:](Vigenère%20Cipher.cpp)
 - Hill Cipher [:construction:](Hill%20Cipher.cpp)
-> [!ERROR] 
+> [!IMPORTANT] 
 > Decrypt not available 
 
 
