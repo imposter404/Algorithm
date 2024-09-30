@@ -37,7 +37,7 @@ implimenting famous algorithms using
 ---
 
 ### Encoding 
-  - Huffman Coding [:construction:](Huffman%20Coding.cpp)
+  - Huffman Coding [:white_check_mark:](Huffman%20Coding.cpp)
   - LZ compression 
 ---
 
