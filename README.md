@@ -58,6 +58,10 @@ implimenting famous algorithms using
   - Affine Cipher   [:white_check_mark:](Affine%20Cipher.cpp)
   - Vigenère Cipher [:white_check_mark:](Vigenère%20Cipher.cpp)
 - Hill Cipher [:construction:](Hill%20Cipher.cpp)
+> [!ERROR] 
+> Decrypt not available 
+
+
 - Vernam Cipher.cpp [:white_check_mark:](Vernam%20Cipher.cpp)
 
 
