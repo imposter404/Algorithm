@@ -58,7 +58,8 @@ implimenting famous algorithms using
   - Affine Cipher   [:white_check_mark:](Affine%20Cipher.cpp)
   - Vigenère Cipher [:construction:](Vigenère%20Cipher.cpp)
 <!--  - [Prims](Prims.cpp). -->
-
+- Vernam Cipher.cpp [:construction:](Vigenère%20Cipher.cpp)
+<!--  - [Prims](Prims.cpp). -->
 
 
 
