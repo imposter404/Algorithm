@@ -57,8 +57,10 @@ implimenting famous algorithms using
   - Shift Cipher    [:white_check_mark:](Shift%20Cipher.cpp)
   - Affine Cipher   [:white_check_mark:](Affine%20Cipher.cpp)
   - Vigenère Cipher [:construction:](Vigenère%20Cipher.cpp)
-<!--  - [Prims](Prims.cpp). -->
-- Vernam Cipher.cpp [:construction:](Vigenère%20Cipher.cpp)
+- Vernam Cipher.cpp [:construction:](Vernam%20Cipher.cpp)
+
+
+
 <!--  - [Prims](Prims.cpp). -->
 
 
