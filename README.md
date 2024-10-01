@@ -61,7 +61,6 @@ implimenting famous algorithms using
 > [!IMPORTANT] 
 > Decrypt not available 
 
-
 - Vernam Cipher.cpp [:white_check_mark:](Vernam%20Cipher.cpp)
 
 
