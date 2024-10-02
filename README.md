@@ -63,6 +63,8 @@ implimenting famous algorithms using
 
 - Vernam Cipher.cpp [:white_check_mark:](Vernam%20Cipher.cpp)
 
+- Vernam Cipher.cpp [:white_check_mark:](Vernam%20Cipher.cpp)
+
 
 
 <!--  - [Prims](Prims.cpp). -->
