@@ -63,9 +63,9 @@ implimenting famous algorithms using
 
 - Vernam Cipher.cpp [:white_check_mark:](Vernam%20Cipher.cpp)
 
-- Bifid Cipher.cpp [](Vernam%20Cipher.cpp)
+- Bifid Cipher [](Vernam%20Cipher.cpp)
 
-- Feistel Cipher.cpp (Feistel%20Cipher.cpp)
+- Feistel Cipher [](Feistel%20Cipher.cpp)
 
 
 
