@@ -66,7 +66,7 @@ implimenting famous algorithms using
 - Bifid Cipher [](Vernam%20Cipher.cpp)
 - Feistel Cipher [](Feistel%20Cipher.cpp)
 - Latin Alphabet Cipher[:white_check_mark:](Latin%20Alphabet%20Cipher.cpp)
--Null Cipher[:white_check_mark:](Null%20Cipher.cpp)
+- Null Cipher[:white_check_mark:](Null%20Cipher.cpp)
 
 
 <!--  - [Prims](Prims.cpp). -->
