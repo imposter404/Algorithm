@@ -70,7 +70,7 @@ implimenting famous algorithms using
 
 <!--  - [Prims](Prims.cpp). -->
 
-
+---
 ### Genetic Algorithm 
 - Genetic Algorithm    [:white_check_mark:](Genetic_Algo.js)
 
