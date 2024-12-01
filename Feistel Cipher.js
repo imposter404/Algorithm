@@ -76,5 +76,8 @@ function Decrypt(){
     }
 }
 
+Encrypt()
+Decrypt()
+console.table("String:",str,"\tEncrypt:",encrypt,"\tDecrypt:",decrypt)
 
 
