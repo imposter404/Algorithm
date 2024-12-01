@@ -42,4 +42,39 @@ function Encrypt(){
     }
 }
 
+function Decrypt(){
+    let L1=[],R1=[],F1=[]
+    let text=encrypt.split("")
+    R2=text.toSpliced(0,text.length/2).map((char)=>{
+        return char.charCodeAt(0)
+    })
+    L2=text.toSpliced(text.length/2,text.length).map((char)=>{
+        return char.charCodeAt(0)
+    })
+
+    for(let i=n-1;i>=0;i--)
+    {
+        R1=[...L2]        
+        F1=[]
+        L1=[]
+        for(j=0;j<R2.length;j++)
+        {
+            F1.push(R1[j]^key[i][j])
+        }  
+        for(j=0;j<R1.length;j++)
+        {
+            L1.push(F1[j]^R2[j])
+        }
+        R2=[...R1]
+        L2=[...L1]
+
+    }
+    let temp=L1.concat(R1)
+    for(i=0;i<temp.length;i++)
+    {
+        decrypt+=String.fromCharCode(temp[i]);
+    }
+}
+
+
 
