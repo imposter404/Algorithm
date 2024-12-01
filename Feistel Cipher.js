@@ -42,6 +42,7 @@ function Encrypt(){
     }
 }
 
+
 function Decrypt(){
     let L1=[],R1=[],F1=[]
     let text=encrypt.split("")
@@ -79,5 +80,3 @@ function Decrypt(){
 Encrypt()
 Decrypt()
 console.table("String:",str,"\tEncrypt:",encrypt,"\tDecrypt:",decrypt)
-
-
