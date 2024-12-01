@@ -68,7 +68,7 @@ implimenting famous algorithms using
 - Feistel Cipher [:white_check_mark:](Feistel%20Cipher.js)
 
 ||done|
----
+|-|-|
 |Feistel Cipher|[:white_check_mark:](Feistel%20Cipher.js)|
 
 
