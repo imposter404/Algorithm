@@ -67,9 +67,6 @@ implimenting famous algorithms using
 - Null Cipher [:white_check_mark:](Null%20Cipher.cpp)
 - Feistel Cipher [:white_check_mark:](Feistel%20Cipher.js)
 
-||done|
-|-|-|
-|Feistel Cipher|[:white_check_mark:](Feistel%20Cipher.js)|
 
 
 
