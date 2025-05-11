@@ -81,6 +81,7 @@ implimenting famous algorithms using
 
 ---
 ### Data Mining 
+- Apriori
 
 
 
