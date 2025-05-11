@@ -2,10 +2,12 @@
 
 implimenting famous algorithms using 
 
-# C++
+# C++ & JavaScript 
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50px" alt="C++" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px" alt="JS" />
           
 </div>
 
