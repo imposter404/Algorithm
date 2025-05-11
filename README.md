@@ -76,8 +76,9 @@ implimenting famous algorithms using
 ### Genetic Algorithm 
 - Genetic Algorithm    [:white_check_mark:](Genetic_Algo.js)
 
----
 
+---
+Data Mining
 
 
 
